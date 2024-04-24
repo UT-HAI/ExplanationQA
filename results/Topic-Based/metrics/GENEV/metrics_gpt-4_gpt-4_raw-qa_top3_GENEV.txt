@@ -1,0 +1,238 @@
+================= NEW RUN =================
+
+User Index: 0
+Exact Accuracy: 0.875
+Correct: 21
+Wrong: 3
+Refused: 0
+Error: 0
+
+User Index: 1
+Exact Accuracy: 0.6666666666666666
+Correct: 16
+Wrong: 8
+Refused: 0
+Error: 0
+
+User Index: 2
+Exact Accuracy: 0.5416666666666666
+Correct: 13
+Wrong: 11
+Refused: 0
+Error: 0
+
+User Index: 3
+Exact Accuracy: 0.875
+Correct: 21
+Wrong: 3
+Refused: 0
+Error: 0
+
+User Index: 4
+Exact Accuracy: 0.35
+Correct: 7
+Wrong: 13
+Refused: 3
+Error: 0
+
+User Index: 5
+Exact Accuracy: 0.6521739130434783
+Correct: 15
+Wrong: 8
+Refused: 0
+Error: 1
+
+User Index: 6
+Exact Accuracy: 0.5416666666666666
+Correct: 13
+Wrong: 11
+Refused: 0
+Error: 0
+
+User Index: 7
+Exact Accuracy: 0.625
+Correct: 15
+Wrong: 9
+Refused: 3
+Error: 0
+
+User Index: 8
+Exact Accuracy: 0.5416666666666666
+Correct: 13
+Wrong: 11
+Refused: 0
+Error: 0
+
+User Index: 9
+Exact Accuracy: 0.625
+Correct: 15
+Wrong: 9
+Refused: 0
+Error: 0
+
+User Index: 10
+Exact Accuracy: 0.5
+Correct: 10
+Wrong: 10
+Refused: 6
+Error: 0
+
+User Index: 11
+Exact Accuracy: 0.625
+Correct: 15
+Wrong: 9
+Refused: 0
+Error: 0
+
+User Index: 12
+Exact Accuracy: 0.2916666666666667
+Correct: 7
+Wrong: 17
+Refused: 0
+Error: 0
+
+User Index: 13
+Exact Accuracy: 0.8260869565217391
+Correct: 19
+Wrong: 4
+Refused: 0
+Error: 1
+
+User Index: 14
+Exact Accuracy: 0.5833333333333334
+Correct: 14
+Wrong: 10
+Refused: 1
+Error: 0
+
+User Index: 15
+Exact Accuracy: 0.2916666666666667
+Correct: 7
+Wrong: 17
+Refused: 0
+Error: 0
+
+User Index: 16
+Exact Accuracy: 0.4583333333333333
+Correct: 11
+Wrong: 13
+Refused: 0
+Error: 0
+
+User Index: 17
+Exact Accuracy: 0.16666666666666666
+Correct: 4
+Wrong: 20
+Refused: 0
+Error: 0
+
+User Index: 18
+Exact Accuracy: 0.4583333333333333
+Correct: 11
+Wrong: 13
+Refused: 0
+Error: 0
+
+User Index: 19
+Exact Accuracy: 0.5
+Correct: 8
+Wrong: 8
+Refused: 4
+Error: 0
+
+User Index: 20
+Exact Accuracy: 0.45
+Correct: 9
+Wrong: 11
+Refused: 1
+Error: 0
+
+User Index: 21
+Exact Accuracy: 0.4583333333333333
+Correct: 11
+Wrong: 13
+Refused: 0
+Error: 0
+
+User Index: 22
+Exact Accuracy: 0.4
+Correct: 8
+Wrong: 12
+Refused: 2
+Error: 0
+
+User Index: 23
+Exact Accuracy: 0.7916666666666666
+Correct: 19
+Wrong: 5
+Refused: 0
+Error: 0
+
+User Index: 24
+Exact Accuracy: 0.4166666666666667
+Correct: 10
+Wrong: 14
+Refused: 0
+Error: 0
+
+User Index: 25
+Exact Accuracy: 0.875
+Correct: 21
+Wrong: 3
+Refused: 0
+Error: 0
+
+User Index: 26
+Exact Accuracy: 0.55
+Correct: 11
+Wrong: 9
+Refused: 1
+Error: 0
+
+User Index: 27
+Exact Accuracy: 0.625
+Correct: 15
+Wrong: 9
+Refused: 0
+Error: 0
+
+User Index: 28
+Exact Accuracy: 0.625
+Correct: 15
+Wrong: 9
+Refused: 0
+Error: 0
+
+User Index: 29
+Exact Accuracy: 0.375
+Correct: 9
+Wrong: 15
+Refused: 2
+Error: 0
+
+User Index: 30
+Exact Accuracy: 0.4166666666666667
+Correct: 10
+Wrong: 14
+Refused: 4
+Error: 0
+
+User Index: 31
+Exact Accuracy: 0.3333333333333333
+Correct: 8
+Wrong: 16
+Refused: 1
+Error: 0
+
+Total Accuracy: 0.5433604336043361
+Total Correct: 401
+Total Wrong: 337
+Total Refused: 28
+Total Error: 2
+
+Topic-Wise Accuracy:
+Facial Recognition: 0.0
+Driverless Cars: 0.0
+Brain Chips: 0.0
+Gene Editing: 2.0885416666666665
+Exoskeletons: 0.0

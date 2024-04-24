@@ -1,0 +1,6 @@
+cachetools==5.3.3
+openai==1.23.1
+pandas==1.5.3
+python-dotenv==1.0.1
+sentence_transformers==2.6.1
+torch==2.2.2
